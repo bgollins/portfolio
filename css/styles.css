@@ -1,0 +1,10 @@
+h2 {
+  background-color: cyan
+}
+
+.jumbotron {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  color: inherit;
+  background-color: cyan;
