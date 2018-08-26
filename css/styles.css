@@ -1,5 +1,6 @@
 h2 {
-  background-color: cyan
+  background-color: cyan;
+  text-align: center;
 }
 
 .jumbotron {
@@ -8,3 +9,5 @@ h2 {
   margin-bottom: 25px;
   color: inherit;
   background-color: cyan;
+  text-align: center;
+}
